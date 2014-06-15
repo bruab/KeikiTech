@@ -106,6 +106,10 @@ textarea {
 select {
   width: 100%; }
 
+.logo {
+  font-family: "Courier", Courier, monospace;
+}
+
 .row {
   width: 100%;
   margin-left: auto;
